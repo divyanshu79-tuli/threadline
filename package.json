@@ -1,0 +1,10 @@
+{
+  "name": "threadline",
+  "version": "0.1.0",
+  "description": "Local-first meeting memory and execution desktop app",
+  "main": "main.js",
+  "author": "",
+  "license": "MIT",
+  "scripts": { "start": "electron ." },
+  "devDependencies": { "electron": "^38.0.0" }
+}
